@@ -10,13 +10,13 @@ const Contact = () => {
       </p>
       <ul>
         <li>
-          <strong>Email:</strong> <a href="mailto:jeevanscience273@gmail.com">jeevanscience273@gmail.com</a>
+          <strong>Email:</strong> <a href="mailto:tsrikara@gmail.com">tsrikara@gmail.com</a>
         </li>
         <li>
-          <strong>LinkedIn:</strong> <a href="linkedin.com/in/jeevanba273/">click here</a>
+          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/srikara-thikkireddy-4b80b8250/">click here</a>
         </li>
         <li>
-          <strong>GitHub:</strong> <a href="https://github.com/jeevanba273" target="_blank" rel="noopener noreferrer">click here</a>
+          <strong>GitHub:</strong> <a href="https://github.com/srik4442" target="_blank" rel="noopener noreferrer">click here</a>
         </li>
        
       </ul>
