@@ -1,10 +1,12 @@
-mport {palette} from './components/palette';
+import './App.css';
+import Details from './components/Info';
 function App() {
   return (
     <div className="App">
-      <palette />
+      <Details/>
     </div>
   );
 }
+
 
 export default App;
