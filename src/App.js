@@ -1,9 +1,12 @@
-import './App.css';
-import Details from './components/Info';
+// src/App.js
+import React from 'react';
+import AgeCalculator from './components/AgeCalculator';
+
+
 function App() {
   return (
     <div className="App">
-      <Details/>
+      <AgeCalculator />
     </div>
   );
 }
