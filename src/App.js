@@ -1,20 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import WordCounter from './components/countWord';
+import { Calculator } from './components/Calc';
 function App() {
   return (
     <div className="App">
-      <h1>Responsive Paragraph Word Counter</h1>
-      <WordCounter/> 
+     <Calculator/>
     </div>
   );
 }
 
 export default App;
-echo "# t1" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/srik4442/t1.git
-git push -u origin main
